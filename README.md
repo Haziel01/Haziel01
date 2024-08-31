@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+ [![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://x.com/hazielcb) [![Instagram Badge](https://img.shields.io/badge/-@maddhruv-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/brandon010801) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:[//www.linkedin.com/in/midhruvjaink/](https://www.linkedin.com/in/brandon-ceballos-6898b0161/))](https://www.linkedin.com/in/brandon-ceballos-6898b0161/)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hazielcb@gmail.com)](mailto:Hazielcb@gmail.com)
+
 <!--
 **Haziel01/Haziel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
