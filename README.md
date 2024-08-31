@@ -1,7 +1,7 @@
-1### Hi there 👋
+### Hi there 👋
 
 
- [![Twitter Badge](https://img.shields.io/badge/-@hazielcb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://x.com/hazielcb) [![Instagram Badge](https://img.shields.io/badge/-@brandon010801-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/brandon010801) [![Linkedin Badge](https://img.shields.io/badge/-Brandon-Ceballos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:[//www.linkedin.com/in/brandon-ceballos-6898b0161/](https://www.linkedin.com/in/brandon-ceballos-6898b0161/))](https://www.linkedin.com/in/brandon-ceballos-6898b0161/)
+ [![Twitter Badge](https://img.shields.io/badge/-@hazielcb-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://x.com/hazielcb) [![Instagram Badge](https://img.shields.io/badge/-@brandon010801-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/brandon010801)](https://instagram.com/brandon010801) [![Linkedin Badge](https://img.shields.io/badge/-BrandonCeballos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:[//www.linkedin.com/in/brandon-ceballos-6898b0161/](https://www.linkedin.com/in/brandon-ceballos-6898b0161/))](https://www.linkedin.com/in/brandon-ceballos-6898b0161/)
 [![Gmail Badge](https://img.shields.io/badge/-Hazielcb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hazielcb@gmail.com)](mailto:Hazielcb@gmail.com)
 
 <!--
